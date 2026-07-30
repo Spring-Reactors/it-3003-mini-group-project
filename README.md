@@ -412,8 +412,6 @@ This project helped to understand:
 
 ---
 
-## 👨‍💻 Author
-
 ## 👥 Authors
 
 | **Name**                           | **Registration Number** | **Index Number** |
