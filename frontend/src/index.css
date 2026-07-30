@@ -1,0 +1,10 @@
+/* The styles are applied to the <body> element */
+body {
+
+  /* Reset default margin on body */
+  margin: 0;
+
+  /* Font Family Stack Configuration */
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+
+}

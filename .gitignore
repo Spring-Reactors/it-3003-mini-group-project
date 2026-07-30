@@ -1,0 +1,55 @@
+# ==========================
+# IDE Files
+# ==========================
+
+.idea/
+.vscode/
+
+# ==========================
+# Backend (Spring Boot)
+# ==========================
+
+backend/.idea/
+backend/.mvn
+backend/target/
+
+# Maven generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+
+# ==========================
+# Frontend (React / Node)
+# ==========================
+
+frontend/.idea/
+frontend/node_modules/
+
+# React build output
+frontend/build/
+frontend/dist/
+
+
+# ==========================
+# Operating System Files
+# ==========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# ==========================
+# Environment Variables
+# ==========================
+
+.env
+.env.*
