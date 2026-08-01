@@ -45,10 +45,12 @@ const fields = [
 
 // Members Page Component
 export default function Members() {
-    return(
+    return (
         // Render the reusable CRUD page with member-specific configuration
         <EntityCrudPage
             title="Members"      // Page title and plural entity name
             endpoint="/members"  // API base URL for CRUD operations
             fields={fields}      // Form field configuration with validation
         />
+    );
+}
